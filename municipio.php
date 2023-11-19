@@ -30,8 +30,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             break;
 
         case "update":
-            echo "actualizar";
-
             $id = htmlspecialchars(trim($_POST["id"]));
             $name = strtoupper(htmlspecialchars(trim($_POST["name"])));
 

@@ -27,7 +27,7 @@ $sections = [
         "icon" => "bx-cog"
     ],
     "asistencia" => [
-        "filename" => "",
+        "filename" => "asistencia.php",
         "label" => "ASISTENCIA",
         "icon" => "bx-list-check"
     ],
@@ -37,7 +37,7 @@ $sections = [
         "icon" => "bx-history"
     ],
     "contacto" => [
-        "filename" => "",
+        "filename" => "contacto_emerg.php",
         "label" => "CONTACTO",
         "icon" => "bx-phone"
     ],

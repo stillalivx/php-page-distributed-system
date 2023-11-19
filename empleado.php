@@ -87,8 +87,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 $supervisorId = "'$supervisorId'";
             }
 
-            echo $supervisorId;
-
             $query = "UPDATE EMPLEADO SET 
                  NOMBRE = '$name',
                  APELLIDO_PAT = '$paternalSurname',
