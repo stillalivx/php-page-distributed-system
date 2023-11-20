@@ -32,7 +32,7 @@ $sections = [
         "icon" => "bx-list-check"
     ],
     "historial" => [
-        "filename" => "",
+        "filename" => "historial.php",
         "label" => "HISTORIAL",
         "icon" => "bx-history"
     ],
